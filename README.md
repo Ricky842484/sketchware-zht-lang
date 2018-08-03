@@ -1,4 +1,4 @@
 # Project Description
-This is the open source Sketchware Chinese Language file. oh
+This is the open source Sketchware Chinese Language file. 
 
 
