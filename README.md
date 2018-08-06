@@ -6,5 +6,13 @@ Copy the file <string.xml> to <Internal Storage>/sketchware/localization
 and then open the main Sketchware app.
 
 # Warning
-1. Never republishing my project without my copyright
-2. Never publish the project on Sketchware
+You can use my work, but please type my name and this original project information.
+
+Never publish the project on Sketchware
+
+If you do something wrong, you may have "problems".
+
+# Download
+
+Only use Github, Miicoapps App Store, Microapps Translate Blog or Microapps Developer Blog's
+download. 
