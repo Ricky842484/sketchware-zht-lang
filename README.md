@@ -11,8 +11,3 @@ You can use my work, but please type my name and this original project informati
 Never publish the project on Sketchware
 
 If you do something wrong, you may have "problems".
-
-# Download
-
-Only use Github, Miicoapps App Store, Microapps Translate Blog or Microapps Developer Blog's
-download. 
